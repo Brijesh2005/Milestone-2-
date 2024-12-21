@@ -1,0 +1,36 @@
+[{
+  "_id": {
+    "$oid": "6610da447bf362bf84d6927f"
+  },
+  "title": "Rice,Flour and Pulses",
+  "picture": "1712380484523-447094737-Category 1.jpg",
+  "status": "Active",
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "6610dadf7bf362bf84d69296"
+  },
+  "title": "Coffee, Tea & Beverages",
+  "picture": "1712380639534-72193113-Category 2.jpg",
+  "status": "Active",
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "6610db527bf362bf84d69299"
+  },
+  "title": "Dried Fruits, Nuts & Seeds",
+  "picture": "1712380754159-611357568-Category 3 (Dried Fruit).jpg",
+  "status": "Active",
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "6610dbc37bf362bf84d6929c"
+  },
+  "title": "Fresh Fruits & Vegetables",
+  "picture": "1712380867111-191760391-Category 4 (Fruits and Vegtables).jpg.crdownload",
+  "status": "Active",
+  "__v": 0
+}]
